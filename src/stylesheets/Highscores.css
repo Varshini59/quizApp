@@ -1,0 +1,26 @@
+.highscores{
+    width:30%;
+    height:50%;
+    border:1px solid #c4c4c2;
+    border-radius: 15px;
+    margin:80px auto;
+    padding:20px 20px 35px 20px;
+    text-align: center;
+}
+
+.go_back_btn{
+    background-color: #218380;
+    color: #ffffff;
+    padding:10px;
+    border:1px solid #218380;
+    border-radius: 5px;
+}
+
+.clear_highscore_btn{
+    background-color: #218380;
+    color: #ffffff;
+    padding:10px;
+    border:1px solid #218380;
+    border-radius: 5px;
+    margin-left:10px;
+}

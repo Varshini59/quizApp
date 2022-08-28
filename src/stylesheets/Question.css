@@ -1,0 +1,20 @@
+.question_container{
+    width:50%;
+    height:50%;
+    border:1px solid #c4c4c2;
+    border-radius: 15px;
+    margin:80px auto;
+    padding:20px 20px 35px 20px;
+}
+
+.choices_container button{
+    display: flex;
+    color:#ffffff;
+    background-color: #218380;
+    border:1px solid #218380;
+    padding:14px;
+    font-size: 15px;
+    margin-bottom: 6px;
+    border-radius: 5px;
+    width: 100%;
+}
